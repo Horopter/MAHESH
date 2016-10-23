@@ -1,0 +1,14 @@
+#vinod's server
+ck <- 'BSYsBY7oCqKR0nrHevzHRs2GC'
+cs <- 'GRWJxjPCQFDtNvd515qGNs6DOJbBVg2OR7WiDbBwjUDeMM3VrN'
+ak <- '136316586-38qng7Ltj5prCee02gMMDhGkzrbDWoIeqH5929Uc'
+as <- 'm2pWpPpXkbk1pHX5u1yCNWDmD0KJ4utLZ5HF4UUREbjfi'
+
+#KHF server
+ck <- '7nTyKOBzpZbXFy1qkzxnvOhcW'
+cs <- 'gxtrzTBIRWkcRp03A59RYAsQK2Fv8O4BosXXjrjAXaE8r0M3f9'
+ak <- '136316586-8aEfeaFi1WXvrikrCtq8AW0bliUxa5bZURFoHIvE'
+as <- 'LQbxb29rskPMMYcWWuo9gZxlDngwHCXryb0kA7Longf6p'
+
+#copy and replace the above four with the corresponding in auth.R
+
